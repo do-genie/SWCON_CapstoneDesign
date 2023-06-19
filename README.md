@@ -1,7 +1,5 @@
 # SWCON_CapstoneDesign
-
-## 과제명
-### Object Detection과 Classification을 활용한 Activity Recognition
+## Object Detection과 Classification을 활용한 Activity Recognition
     
 #### 가. 과제 설계 배경 및 필요성
 기존 서비스(갤럭시 사진 자동 태그 추천)는 이미지에 나타나는 객체 태그로만 활동을 나타내고 있어
